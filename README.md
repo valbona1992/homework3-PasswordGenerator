@@ -15,4 +15,4 @@ Below is a summary of what I implemented.
 * The function returns the final password which is displayed in the browser.
 
 ## Screenshot
-![screenshot](Assets/PasswordGenerator.png)
+![screenshot](Assets/PasswordGenerator.png) 

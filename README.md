@@ -1,5 +1,6 @@
 # homework3-PasswordGenerator
 
+This is the link to the following assignment: [link](https://valbona1992.github.io/homework3-PasswordGenerator/)
 
 ## Summary
 This assignment required me to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected.  
